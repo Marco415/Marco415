@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-I'm Marco Engels.
-
 ## 🎓 About Me
 - BSc Honours in Computer Science and Information Technology student
 - Interested in software development, database systems, AI, and image processing
@@ -18,6 +16,9 @@ I'm Marco Engels.
 - MATLAB
 - Git
 - Docker
+- Spring Boot
+- Apache Framework
+- Neo4j
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,3 +30,5 @@ I'm Marco Engels.
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
